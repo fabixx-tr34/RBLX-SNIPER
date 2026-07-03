@@ -14,6 +14,7 @@ from colorama import Fore, Style, init
 init()
  
 GITHUB_URL = "https://github.com/fabixx-tr34"
+GUNSLOL_URL = "https://guns.lol/fabiiix"
 THREAD_COUNT = 5
 HITS_FILE = "hits.txt"
 REQUEST_TIMEOUT = 5
@@ -61,6 +62,7 @@ def print_banner():
     print(Fore.MAGENTA + "        Username Checker" + Style.RESET_ALL)
     print(Fore.MAGENTA + "-" * 40 + Style.RESET_ALL)
     print(Fore.LIGHTMAGENTA_EX + "made by: " + GITHUB_URL + Style.RESET_ALL)
+    print(Fore.LIGHTMAGENTA_EX + "guns.lol: " + GUNSLOL_URL + Style.RESET_ALL)
     print(Fore.MAGENTA + "=" * 40 + Style.RESET_ALL)
  
  
