@@ -28,7 +28,7 @@ pip install -r requirements.txt
 ## Usage
 
 ```bash
-python username_checker.py
+python RBLX SNIPER.py
 ```
 
 Or just run `setup.bat` on Windows, it installs the dependencies and launches the program automatically.
