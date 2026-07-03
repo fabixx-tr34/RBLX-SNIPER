@@ -22,7 +22,7 @@ A multithreaded Python tool that generates random usernames and checks their ava
 ## Installation
 
 ```bash
-pip install -r requirements.txt
+run setup.bat
 ```
 
 ## Usage
